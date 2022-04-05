@@ -1,1 +1,1 @@
-# WACC_Compiler
+# In a team of 4 created a compiler for the WACC language using Scala and Parser Parsley. Optimised it with the compile time constant evaluation and propagation, control flow analysis, imports, pointers and full pair types. Implemented functions as first class objects (can be instantiated, passed and returned from a function). Code is private due to the college privacy policy, but might be provided upon request.
